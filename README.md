@@ -1,8 +1,13 @@
 # Machine-Learning-in-Python
-#Machine Learning Classification models using Python;
 
-#Problema de negócio: Prevendo Customer Churn em Operadoras de Telecom;
+## The project - Predicting Telecom customer churn
 
-#Projeto desenvolvido como parte do curso de formação Cientista de Dados pela Data Science Academy, módulo II - Big Data Analytics com Python e Spark;
+Daily, Telecom companies deal with a usual problem in a competitive market: the struggle to retrieve current customers for as long as possible in their portfolios. In this scenario, Machine Learning can be a key factor to predict whether or not a customer will no longer use the telecom services.
 
-#Dataset original disponibilizado pela Data Science Academy.
+## The purpose 
+
+This project has been developed by me as part of the Data Scientist Formation online course provided by Data Science Academy.
+
+## Programming language used
+
+Python 3.7.6
